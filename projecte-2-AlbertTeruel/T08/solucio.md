@@ -177,4 +177,11 @@ Rendiment del hosting, integració de CDN, SLA elevat i identitat del domini.
 
 La combinació de Kinsta com a proveïdor de hosting i el domini llumso.cat assegura una infraestructura robusta i una presència en línia coherent amb la identitat del festival.
 
-[Torna](../)
+
+[Torna al README](README.md)
+
+[![Tornar al Projecte 2](https://img.shields.io/badge/Tornar_al_Projecte_2-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
+
+

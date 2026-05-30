@@ -46,6 +46,8 @@ S'ha de consolidar la informació en els formats requerits:
 ## Enllaç al Canvas
 [Microsoft Planner](https://planner.cloud.microsoft/webui/v1/plan/UXdRTUvLZUSy3lNPK8Xx35YADkhW?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
+[P01 Presentacio](P01_Presentacio.pdf)
+
 [![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
 
 [![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

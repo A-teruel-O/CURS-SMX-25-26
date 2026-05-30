@@ -95,5 +95,12 @@ https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/managin
 https://forum.zorin.com/t/howto-setup-grub-bootloader-password-zorin-os-17/33851  
 https://www.tecmint.com/password-protect-grub-in-linux/
 
-[Torna](../)
+
+[Torna al README](README.md)
+
+[![Tornar al Projecte 2](https://img.shields.io/badge/Tornar_al_Projecte_2-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
+
+
 

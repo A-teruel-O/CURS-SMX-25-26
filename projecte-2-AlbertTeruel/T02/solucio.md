@@ -132,5 +132,10 @@ L'autonomia de 26 minuts garanteix temps suficient per completar treballs i real
 
 La decisió de no connectar la impressora làser al SAI és tècnicament correcta i econòmicament eficient, seguint les recomanacions dels fabricants capdavanters del sector.
 
+[Torna al README](README.md)
 
-[Torna](../)
+[![Tornar al Projecte 2](https://img.shields.io/badge/Tornar_al_Projecte_2-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
+
+
