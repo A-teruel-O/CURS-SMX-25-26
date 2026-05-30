@@ -8,3 +8,7 @@ Repartiu-vos la intervenció de forma equitativa, parleu amb seguretat i amb un 
 
 ## Enllaç als Entregables
 [Presentació](PresentacioDatacenter.pdf)
+
+[![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

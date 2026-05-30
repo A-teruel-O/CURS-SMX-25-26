@@ -52,3 +52,7 @@ El document final (Word, PDF o presentació de Canva) ha d'incloure:
 [Part 1: Escollir el millor hosting per a un cas concret](hosting.pdf)
 
 [Part 2: Naming i disponibilitat de dominis](Namingidisponibilitatdedominis.pdf)
+
+[![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

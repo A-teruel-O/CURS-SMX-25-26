@@ -24,3 +24,5 @@ Productes:
 * [P01](./P01/README.md)
 * [P02](./P02/README.md)
 * [P03](./P03/README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../README.md)

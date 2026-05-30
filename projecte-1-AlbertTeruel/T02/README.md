@@ -27,3 +27,7 @@ Explicació teòrica i recull de notes sobre els següents conceptes clau:
 
 ### Part 4: Prova de Validació
 * Avaluació del producte de la tasca mitjançant una prova de validació sobre els aprenentatges d'aquesta unitat.
+
+[![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

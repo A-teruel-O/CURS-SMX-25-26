@@ -13,3 +13,7 @@ El curs passat al mòdul de xarxes locals, vam veure el conjunt de protocols **T
 Encara no feu memòria? No patiu, perquè aquesta tasca va precisament d’això, de repassar aquest tema. I per què? Perquè aquest curs a l’assignatura de serveis de xarxa muntarem serveis i per això necessitarem entendre i saber aplicar conceptes com **adreces**, **màscares**, **ports de la capa de transport**, etc.
 
 Teniu un full d’activitats a resoldre, és important que el feu perquè l’objectiu és que recordeu i entengueu bé el que heu de fer. Al final de la tasca farem una petita prova de validació per comprovar que heu assolit els objectius.
+
+[![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
