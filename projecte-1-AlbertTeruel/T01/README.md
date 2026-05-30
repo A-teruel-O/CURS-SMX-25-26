@@ -30,11 +30,6 @@ Activitat pràctica enfocada en l'aprenentatge i aplicació de la metodologia KA
 ## Enllaç al Canvas
 [Microsoft Planner](https://planner.cloud.microsoft/webui/v1/plan/eZ-zzKKegkWyRtDePYjKv5YABfqc?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-    <a href="../README.md" style="display: inline-block; background-color: #0066cc; color: #ffffff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
-        Tornar al Projecte 1
-    </a>
-    <a href="../../README.md" style="display: inline-block; background-color: #4a5568; color: #ffffff; padding: 10px 18px; text-decoration: none; border-radius: 6px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; box-shadow: 0 1px 3px rgba(0,0,0,0.12);">
-        Tornar al README General
-    </a>
-</div>
+[![Tornar al Projecte 1](https://img.shields.io/badge/Tornar_al_Projecte_1-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
