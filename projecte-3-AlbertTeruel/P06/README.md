@@ -1,4 +1,4 @@
-#P06: Vídeo. Fonaments DNS
+# P06: Vídeo. Fonaments DNS
 
 A la tasca “T06: Fonaments del DNS” heu realitzat un vídeo dins l’encàrrec que Digicorp va sol·licitar a EverPia per la formació del seu personal tècnic en els conceptes bàsics del servei del sistema de noms (DNS).
 Doncs bé, aquest vídeo és un producte del qual podeu estar orgullosos i per tant, que voleu incorporar al vostre port foli personal. Recordeu que sobreviure en una consultora i progressar professionalment, implica crear-se un currículum amb les millors accions que aneu realitzant al llarg de la vostra estada.
@@ -6,3 +6,7 @@ Doncs bé, aquest vídeo és un producte del qual podeu estar orgullosos i per t
 Tal com es va indicar a la tasca, pengeu el vídeo en alguna plataforma, per exemple, podeu Stream que forma part del vostre Office 365. Assegureu-vos de donar permisos de visualització.
 
 - [Video](https://drive.google.com/file/d/1O1oCDegycsw5eDMjtRGF6c7-aekgpmwL/view?usp=sharing) 
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

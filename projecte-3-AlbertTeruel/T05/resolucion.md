@@ -171,3 +171,9 @@ Labbox permet que universitats i laboratoris tinguin material de qualitat a bons
 Labbox és una empresa que ha sabut créixer i adaptar-se en un sector molt exigent. El seu èxit es basa en oferir bon servei, qualitat i preus justos, i en mantenir una relació propera amb clients i proveïdors. Tot i que el mercat canvia ràpidament, Labbox té bones oportunitats si continua innovant, apostant per la tecnologia i expandint-se a nous països. Amb aquests passos, podrà seguir sent una empresa útil i important per a la comunitat científica d’arreu del món.
 
 ---
+
+[Torna al README](README.md)
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

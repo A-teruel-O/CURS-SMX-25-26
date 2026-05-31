@@ -80,3 +80,7 @@ Heu de crear un document `guia.md` amb els resultats, captures i explicacions de
 Activitats:
 - [Guia](guia.md)
 - [Video](https://drive.google.com/file/d/1O1oCDegycsw5eDMjtRGF6c7-aekgpmwL/view?usp=sharing) 
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

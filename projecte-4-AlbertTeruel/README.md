@@ -58,17 +58,25 @@ Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ec
 
 Aquest projecte vol posar-los en situació d’assumir, amb autonomia progressiva, rols i responsabilitats similars als que trobarien en una empresa tecnològica de mida petita o mitjana.
 
-***
+### Tascas:
+- [T01](T01.md)
+- [T02](T02.md) 
+- [T03](T03.md) 
+- [T04](T04.md) 
+- [T05](T05.md) 
+- [T06](T06.md) 
+- [T07](T07.md) 
+- [T08](T08.md) 
+- [T09](T09.md)
+- [T10](T10.md)
+- [T11](T11.md)
+- [T12](T12.md)
+- [T13](T13.md)
+- [T14](T14.md)
+- [T15](T15.md)
+- [T16](T16.md)
 
-- [T01](T01.md) - [T09](T09.md)
-- [T02](T02.md) - [T10](T10.md)
-- [T03](T03.md) - [T11](T11.md)
-- [T04](T04.md) - [T12](T12.md)
-- [T05](T05.md) - [T13](T13.md)
-- [T06](T06.md) - [T14](T14.md)
-- [T07](T07.md) - [T15](T15.md)
-- [T08](T08.md) - [T16](T16.md)
-
+### Productes
 - [P01](P01.md)
 - [P02](P02.md)
 - [P03](P03.md)

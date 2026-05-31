@@ -14,3 +14,6 @@ El projecte inclou la configuració completa del servidor BIND9 amb:
 
 Durant la pràctica, hem comprovat que el servidor funciona correctament des d’un client de la xarxa: es poden resoldre noms de domini interns, així com fer consultes inverses, i també es pot accedir a Internet utilitzant el reenviador configurat. A més, s’ha provat la transferència de zones amb un company, garantint que les zones secundàries es sincronitzen correctament.
 
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

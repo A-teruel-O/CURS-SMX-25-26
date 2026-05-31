@@ -166,3 +166,9 @@ ping nom-equip.local
 3. **Les respostes autoritatives vs. no autoritatives** són importants per entendre on es gestiona realment el domini
 4. **La resolució local** (hosts i mDNS) és essencial per a entorns sense DNS centralitzat
 5. **El TTL controla l'actualització** dels resultats en cache
+
+[Torna al README](README.md)
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

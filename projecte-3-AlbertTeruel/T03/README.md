@@ -35,3 +35,7 @@ Penseu que posteriorment, haureu de presentar al client les conclusions de la vo
 
 - [Linux: LVM amb Zorin OS](linux.md)
 - [Windows: Espais d'Emmagatzematge (Storage Spaces)](windows.md)
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

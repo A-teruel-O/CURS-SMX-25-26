@@ -58,4 +58,8 @@ ldapsearch -xLLL -b "dc=innovatech22,dc=test"
 
 ---
 
-[Tornar](README.md) 
+[Torna al README](README.md)
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

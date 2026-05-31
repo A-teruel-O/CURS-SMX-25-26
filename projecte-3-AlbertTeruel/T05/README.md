@@ -25,4 +25,6 @@ A més d’un informe amb tots aquests punts caldrà fer un últim apartat amb c
 
 Es farà d’auditoria per equips amb feedback per incorporar a l’informe a mode de correccions. També hi haurà una prova de validació.
 
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
 
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

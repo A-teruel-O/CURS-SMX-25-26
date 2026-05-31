@@ -12,6 +12,9 @@ La tasca encomanada als becaris consisteix en:
 - [Informe](informe.md) 
 
 2. **Fase 2 – Guia d’Ús Tècnica:** Crear un manual operatiu per a l’eina seleccionada, amb instruccions pas a pas, captures de pantalla, gestió de contrasenyes segures, ús d’emplenament automàtic i recomanacions per a còpies de seguretat. 
+
 - [Guia](guia.md)  
 
-[Torna](../)
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

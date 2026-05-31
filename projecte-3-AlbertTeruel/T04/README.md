@@ -31,3 +31,7 @@ S’ha redactat un document on s’especifica clarament la feina que s’ha de d
 - [Part 2: Instal·lació d'OpenLDAP](parte2.md)
 - [Part 3: Configuració Bàsica d'OpenLDAP](parte3.md)
 - [Part 4: Instal·lació de LAM (Gestor d'Usuaris LDAP)](parte4.md)
+
+[![Tornar al Projecte 3](https://img.shields.io/badge/Tornar_al_Projecte_3-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
