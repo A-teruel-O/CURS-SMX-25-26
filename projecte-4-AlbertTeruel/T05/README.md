@@ -19,3 +19,7 @@ Usa com a referència dels punts a documentar les activitats que s’indiquen al
 Aquesta guia ha de ser impecable. Penseu que el pròxim tècnic que s'incorpori dependrà directament de la vostra feina per poder ser operatiu des del primer dia. Comencem la PoC.
 
 [Tasca](solucio.md)
+
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

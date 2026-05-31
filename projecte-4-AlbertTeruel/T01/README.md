@@ -1,4 +1,4 @@
-T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
+# T01: DRP: còpies de seguretat. Estudi cas client (treball cooperatiu)
 
 ## Introducció
 
@@ -80,6 +80,8 @@ Com es garanteix que les dades de Comptabilitat/Clients compleixen amb el requis
 - Moodle 0226 Seguretat Informàtica. RA2.AA3Còpies  
 - INCIBE. [Copias de seguridad](https://www.incibe.es/sites/default/files/contenidos/guias/guia-copias-de-seguridad.pdf). Una guía de aproxim
 
-
-
 [Solucio](solucio.md)
+
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

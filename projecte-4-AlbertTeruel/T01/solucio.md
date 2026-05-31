@@ -1,4 +1,3 @@
-***
 
 ### Fase 1: Treball individual
 
@@ -73,6 +72,8 @@ Després de compartir les propostes, hem coincidit que el NAS local i el núvol 
 - RTO (Temps de recuperació): Les còpies al NAS permeten restablir bases de dades en menys de 4 h.
 - RPO (Pèrdua màxima de dades): Còpies incrementals cada 4 h asseguren una pèrdua màxima de només aquest marge.
 
+[Torna al README](README.md)
 
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
 
-
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

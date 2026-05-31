@@ -1,4 +1,4 @@
-# Projecte03_Sobreviure-en-una-empresa-IT
+# Projecte03 Sobreviure en una empresa IT
 
 Després de l’èxit del primer projecte, EverPia afronta una nova etapa on ja no es tracta de construir, sinó de **sobreviure**. L’empresa ha crescut, els clients s’han multiplicat i la pressió és constant. Els tècnics —ara vosaltres— sou els encarregats de mantenir en peu la infraestructura que fa possible que tot funcioni, encara que sembli a punt d’explotar.
 

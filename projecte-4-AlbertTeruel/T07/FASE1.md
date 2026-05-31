@@ -41,3 +41,8 @@ Després de comparar les alternatives, **RustDesk** és l’eina recomanada perq
 - Permet connexions ràpides i directes, fins i tot amb xarxes restrictives.  
 - Té opcions avançades per a tècnics (transferència de fitxers, control complet).  
 
+[Torna al README](README.md)
+
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

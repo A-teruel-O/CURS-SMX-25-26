@@ -88,3 +88,7 @@ export PASSPHRASE=contrasenya
 
 - [Part 1 Windows](Part1.md)
 - [Part 2 Ubuntu Server](Part2.md)
+
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

@@ -1,83 +1,37 @@
-# EverPia 3: “Sobreviure en una empresa IT”
+# Projecte04 Everpia El desafiament final
 
-Després de setmanes convivint amb el ritme imprevisible d’una consultora tecnològica, arriba al darrer capítol de la trilogia **EverPia**. És un moment que combina entusiasme, maduresa i una sensació molt real: aquesta etapa s’acaba, i comença alguna cosa nova.
+Després de setmanes convivint amb el ritme imprevisible d'una consultora tecnològica, arribeu al darrer capítol de la trilogia EverPia. És un moment que combina entusiasme, maduresa i una certesa clara: aquesta etapa s'acaba i comença el vostre salt definitiu cap al món professional. Qui entra com a júnior a la nostra consultora ho fa sense saber gaire què s'hi trobarà, però en surt completament transformat. De sobte, us veureu apagant incendis, assumint tasques de gran responsabilitat, gestionant emergències, optimitzant sistemes de fons i aprenent a una velocitat accelerada que us convertirà en autèntics professionals de les tecnologies de la informació. Aquest projecte no és un simple conjunt d'exercicis ni tasques inconnexes; és la vostra gran carta de presentació professional.
 
-A les consultores, la trajectòria professional segueix un patró gairebé universal:
-Qui entra com a *júnior* ho fa sense saber gaire què s’hi trobarà, però en surt transformat.
+Durant quatre setmanes, haureu de donar resposta a encàrrecs reals per preparar EverPia per al seu gran salt tecnològic, escalant serveis i millorant la resiliència de les infraestructures. El mòdul de Projecte Intermodular actuarà com el vostre client exigent, supervisant que seguiu estrictament les metodologies d'organització, realitzant el seguiment del tauler Kanban a Microsoft Planner i avaluant la qualitat professional dels lliurables. En aquesta fase final, abandonem l'entorn purament individual per adoptar un flux de treball cooperatiu i col·laboratiu real a GitHub mitjançant l'ús de branques, forks i sol·licituds de canvis (*Pull Requests*), respectant el nostre "Protocol de Desplegament Estàndard" (SOP).
 
-***
+Cap projecte d'infraestructura sobreviu sense la cohesió de l'equip. Treballar en entorns de consultoria IT requereix organitzar i desenvolupar la feina assignada mantenint unes relacions professionals adequades, col·laborant de forma proactiva, dividint tasques en parelles o grups i gestionant amb maduresa les línies de comunicació i coordinació. La documentació rigorosa i estructurada en format Markdown dins del vostre repositori serà el pilar fonamental que demostri la vostra capacitat tècnica i organitzativa davant de qualsevol imprevist.
 
-## El creixement professional
+A nivell competencial, aquest desafiament final integra de forma coordinada i aplicada tots els mòduls del curs. Implementareu plans de recuperació davant desastres (DRP) i polítiques de còpies de seguretat sota la regla 3-2-1 tant en entorns Windows com Linux (mitjançant Duplicati, Duplicity i cron); fareu servir Rescuezilla per a la creació i restauració d'imatges completes del sistema; trencareu les barreres físiques implementant connexions remotes segures via SSH, escriptoris remots RDP i plataformes d'assistència sota demanda; i desplegareu serveis centralitzats de fitxers (NFS) i d'impressió (CUPS). Al threats mateix temps, consolidareu competències de disseny digital UX/UI creant prototips navegables de comerç electrònic a Figma, combinant-ho amb la creació d'un pla d'empresa tecnològic i una mirada transversal de sostenibilitat i economia circular aplicada a la vostra família professional.
 
-De sobte et veus apagant incendis, assumint tasques que no surten al contracte, donant suport a companys amb més anys que tu, resolent problemes d’origen desconegut i aprenent a una velocitat que no apareix a cap manual.
+Tascas:
 
-Aquesta intensitat et fa créixer.
-Aquesta pressió et defineix.
-Aquesta experiència accelerada et converteix en professional.
+* [T01: DRP: còpies de seguretat. Estudi cas client](./T01/README.md)
+* [T02: DPR: còpies de seguretat. Cas pràctic](./T02/README.md)
+* [T03: Pla de recuperació davant desastres: imatges del sistema](./T03/README.md)
+* [T04: Accés remot](./T04/README.md)
+* [T05: Accés Remot. Connexió via SSH](./T05/README.md)
+* [T06: Accés remot. Escriptori remot (RDP)](./T06/README.md)
+* [T07: Accés remot. Serveis d’assistència remota](./T07/README.md)
+* [T08: Auditoria de Qualitat i Estandardització de Servidors](./T08/README.md)
+* [T09: Servidor fitxers Linux. NFS](./T09/README.md)
+* [T10: Servidor impressió Linux. CUPS](./T10/README.md)
+* [T11: Introducció a Figma: nocions bàsiques de disseny d’interfícies](./T11/README.md)
+* [T12: Fonaments del Disseny Web Comercial: Landing Page + Procés de Checkout](./T12/README.md)
+* [T13: Disseny d’un E-commerce en Figma](./T13/README.md)
+* [T14: Sostenibilitat. Prova Escrita](./T14/README.md)
+* [T15: Com de circular és la meva família professional?](./T15/README.md)
+* [T16: Crea el teu pla d’empresa TECH](./T16/README.md)
 
-I un dia, sense adonar-te’n, descobreixes que ja no ets el mateix *júnior* que va entrar per la porta amb por i il·lusió. Ara tens eines, criteri, documentació pròpia i una manera de mirar els problemes que només es guanya treballant molt i en silenci.
+Productes:
 
-***
+* [P01: GitHub. Treballant de forma col·laborativa: forks i pull request.](./P01/README.md)
+* [P02: Presentació i Projecció de la Maqueta web al Client](./P02/README.md)
+* [P03: Kanban del projecte](./P03/README.md)
+* [P04: Fitxes d’Economia Circular](./P04/README.md)
 
-## L’origen del projecte
-
-Aquest projecte neix exactament d’aquí: d’aquell moment en què tu —com qualsevol treballador de consultoria— comences a intuir que estàs preparat per fer el salt.
-
-Per deixar de ser la baula més jove de la cadena i començar a dissenyar el seu propi camí.
-Ara ja ho sap: està a punt de sortir d’EverPia.
-
-I vol fer-ho per la porta gran.
-
-***
-
-## Objectius i significat
-
-Aquest projecte és la seva oportunitat per demostrar qui és després de tot el que ha viscut: què ha après, com treballa, com documenta, com investiga, com proposa solucions i com afronta reptes complexos sense perdre el nord.
-
-No és un conjunt de tasques.
-És la seva **carta de presentació professional**.
-
-Ja saps que et trobes a les últimes setmanes a *EverPia*. I precisament per això vols acabar **per la porta gran**: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional.
-
-Aquest projecte no és només un conjunt d’exercicis: és la seva carta de presentació abans de començar a caminar amb més autonomia, confiança i criteri propi.
-
-***
-
-## Context del projecte
-
-Aquest projecte representa la darrera etapa del **període de pràctiques internes** dels alumnes dins l’empresa *EverPia*, on han estat treballant en qualitat de *junior IT* durant tot el trimestre.
-
-Durant quatre setmanes, hauràs de donar resposta a encàrrecs reals dins l’ecosistema empresarial d’EverPia:
-
-- Gestió d’emergències
-- Millora de processos
-- Automatització de sistemes
-- Administració de repositoris
-- Implementació de serveis d’accés remot
-- Desplegament de solucions de disseny i comerç electrònic
-
-Aquest projecte vol posar-los en situació d’assumir, amb autonomia progressiva, rols i responsabilitats similars als que trobarien en una empresa tecnològica de mida petita o mitjana.
-
-### Tascas:
-- [T01](T01.md)
-- [T02](T02.md) 
-- [T03](T03.md) 
-- [T04](T04.md) 
-- [T05](T05.md) 
-- [T06](T06.md) 
-- [T07](T07.md) 
-- [T08](T08.md) 
-- [T09](T09.md)
-- [T10](T10.md)
-- [T11](T11.md)
-- [T12](T12.md)
-- [T13](T13.md)
-- [T14](T14.md)
-- [T15](T15.md)
-- [T16](T16.md)
-
-### Productes
-- [P01](P01.md)
-- [P02](P02.md)
-- [P03](P03.md)
-
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)

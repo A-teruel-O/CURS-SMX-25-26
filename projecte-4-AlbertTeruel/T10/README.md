@@ -46,5 +46,8 @@ El mateix escenari de la PoC de **NFS**. Podeu seguir usant les mateixes màquin
 
 Documenteu les comandes utilitzades, tal com s’ha explicat a la tasca en PDF, i incorporeu les **captures de pantalla** necessàries per demostrar el correcte funcionament de la prova.
 
-- [Guia](solucio.md)
+[Guia](solucio.md)
 
+[![Tornar al Projecte 4](https://img.shields.io/badge/Tornar_al_Projecte_4-0066cc.svg)](../README.md)
+
+[![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
