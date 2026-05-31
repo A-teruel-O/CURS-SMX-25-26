@@ -8,24 +8,24 @@ El repte és clar: aprendre a funcionar com a consultora. Això implica no nomé
 
 Tascas:
 
-* [T01](./T01/README.md)
-* [T02](./T02/README.md)
-* [T03](./T03/README.md)
-* [T04](./T04/README.md)
-* [T05](./T05/README.md)
-* [T06](./T06/README.md)
-* [T07](./T07/README.md)
-* [T08](./T08/README.md)
-* [T09](./T09/README.md)
-* [T10](./T10/README.md)
-* [T11](./T11/README.md)
-* [T12](./T12/README.md)
+* [T01: Control de versions amb git i GitHub](./T01/README.md)
+* [T02: Selecció d’un SAI per una empresa client](./T02/README.md)
+* [T03: Seguretat Lògica: recuperant accés a sistemes](./T03/README.md)
+* [T04: Configurant i administrant un servidor Linux](./T04/README.md)
+* [T05: El servei de DHCP: introducció teòrica](./T05/README.md)
+* [T06: El servei de DHCP: configuració pràctica](./T06/README.md)
+* [T07: Idea de negoci responsable socialment](./T07/README.md)
+* [T08: Assessorament de domini i hosting (per client assignat) - Aplicacions web](./T08/README.md)
+* [T09: Donar-se d’alta en un hosting gratuït - Aplicacions Web & PI](./T09/README.md)
+* [T10: Màsterclass de Markdown](./T10/README.md)
+* [T11: Instal·lació de WordPress en local amb WP Local – Aplicacions Web](./T11/README.md)
+* [T12: Sostenibilitat](./T12/README.md)
 
 Productes:
 
-* [P01](./P01/README.md)
-* [P02](./P02/README.md)
-* [P03](./P03/README.md)
+* [P01: Kanban & Compte de Github](./P01/README.md)
+* [P02: Afegint la documentació de seguretat al repositori](./P02/README.md)
+* [P03: Presentació d’elecció de hosting al nostre client](./P03/README.md)
 
 [![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../../README.md)
 

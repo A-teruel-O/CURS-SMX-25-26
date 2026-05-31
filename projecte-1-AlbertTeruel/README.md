@@ -10,19 +10,19 @@ A nivell de continguts, els diferents mòduls aportaran la teoria i els coneixem
 
 Tascas:
 
-* [T01](./T01/README.md)
-* [T02](./T02/README.md)
-* [T03](./T03/README.md)
-* [T04](./T04/README.md)
-* [T05](./T05/README.md)
-* [T06](./T06/README.md)
-* [T07](./T07/README.md)
-* [T08](./T08/README.md)
+* [T01: Kanban Cakes](./T01/README.md)
+* [T02: Vull crear la meva pròpia empresa](./T02/README.md)
+* [T03: Hosting, naming i fonaments de la web](./T03/README.md)
+* [T04: Recordant les xarxes TCP/IP](./T04/README.md)
+* [T05: Repàs comandes Linux](./T05/README.md)
+* [T06: Introducció a la seguretat informàtica](./T06/README.md)
+* [T07: Seguretat a l’entorn físic](./T07/README.md)
+* [T08: Sostenibilitat](./T08/README.md)
 
 Productes:
 
-* [P01](./P01/README.md)
-* [P02](./P02/README.md)
-* [P03](./P03/README.md)
+* [P01: Simulació d’un projecte web fent servir Kanban](./P01/README.md)
+* [P02: Màquina virtual Ubuntu Server](./P02/README.md)
+* [P03: Presentació de seguretat](./P03/README.md)
 
 [![Tornar al README General](https://img.shields.io/badge/Tornar_al_README_General-4a5568.svg)](../README.md)
